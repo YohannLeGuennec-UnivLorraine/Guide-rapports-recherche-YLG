@@ -1,0 +1,160 @@
+# Annotations  
+(01/04/2026 12:26:38)
+
+« L’extraction liquide-liquide sur colonnes gravitaires est une technique efficace pour les traiter. L’utilisation de contacteurs membranaires est une alternative encore étudiée qui nécessite pour cela une thermodynamique bien définie. » ([Rousselot, p. 3](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=3&annotation=HMJPPR32)) En réponse à quelle problématique ? --> à mettre dans le résumé pour la compréhension
+
+« la production de résine » ([Rousselot, p. 4](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=4&annotation=PUZ72ILM))
+
+« faible miscibilité avec l’eau » ([Rousselot, p. 4](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=4&annotation=5LL83V4T)) seuils de rejet pour MIBK ? est-ce qu'on ne remplace pas un problème par un autre ?
+
+« écoulement, transfert de matière... » ([Rousselot, p. 4](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=4&annotation=RHCFTB4B)) équilibres thermo ? à ne pas oublier pour la cohérence
+
+« Méthylisobutylcétone » ([Rousselot, p. 4](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=4&annotation=YA9YKUP3)) MIBK (inutile de remettre le nom complet)
+
+« Tableau 1: Liste des produits chimiques utilisés » ([Rousselot, p. 5](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=5&annotation=4P2B6H5V)) peut être bien de préciser l'état physique à la température ambiante
+
+« Protocoles » ([Rousselot, p. 5](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=5&annotation=LUMVQ3GM)) mettre un tableau avec le plan d'expérience pour indiquer ce qui est réalisé et pourquoi
+
+« dite « du point trouble » a » ([Rousselot, p. 5](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=5&annotation=5PKRS6MW)) expliquer la méthode du point trouble et quels phénomènes s'y produisent
+
+« « du point trouble » » ([Rousselot, p. 5](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=5&annotation=7X28QLA9)) ref ?
+
+« Pour obtenir des points de mélange du côté de la phase organique, une certaine quantité de phénol et d’eau distillée a été introduite dans un flacon hermétique. Puis le MIBK a été introduit au goutte à goutte sous agitation jusqu’à obtention d’un aspect trouble de la solution. Du côté de la phase aqueuse, l’eau distillée a été ajoutée à une solution de MIBK et phénol en suivant le même protocole. » ([Rousselot, p. 5](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=5&annotation=LRJWHFG4)) bien de mettre des photos du système expérimental
+
+« 2-propanol » ([Rousselot, p. 6](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=6&annotation=NTHIK6ZL)) effet de la présence de 2-propanol sur l'analyse ? Pas d'effet de matrice sur les mesures ?
+
+« ratio de split » ([Rousselot, p. 6](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=6&annotation=GRLWU546)) expliquer
+
+« littérature » ([Rousselot, p. 7](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=7&annotation=WSUL5I9T)) ref à mettre
+
+« Figure 1: Comparaison des diagrammes eau-MIBK-phénol à 25°C en fraction massique » ([Rousselot, p. 7](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=7&annotation=BV7FLG2I)) compléter la légende pour que cela puisse être compris sans lire le rapport. Bien mettre que les températures ne sont pas les mêmes.
+
+« Figure 2: Comparaison des diagrammes eau-MIBK-phénol à 25°C en fraction molaire » ([Rousselot, p. 8](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=8&annotation=PQXLL2BQ)) diagramme tout pixelisé à éviter
+
+« La cinétique d’extraction a été étudiée en mesurant pour différents temps d’agitation, la quantité de phénol extraite par la phase organique. » ([Rousselot, p. 8](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=8&annotation=KM6XSPYQ)) est-ce que les prélèvements sont représentatifs du milieu ?
+
+« Pour cela, des solutions contenant 2g de phénol et 18g d’eau ont été préparées. 20g de MIBK ont ensuite été ajoutés sous agitation. » ([Rousselot, p. 8](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=8&annotation=4GYVLRY9)) Pourquoi cette composition ?
+
+« Grâce aux rapports de masses prélevées et d’aires déterminées par le FID, la formule suivante est obtenue : mi mref = k × Ai Aref D’où mi = k × mref × Ai Aref avec k étant le coefficient directeur de la droite obtenue par étalonnage pour chacune des espèces » ([Rousselot, p. 8](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=8&annotation=KIWQ9ZWU)) donner des chromatogrammes (résultats expérimentaux bruts) en annexe
+
+« Wphénol en phase organique » ([Rousselot, p. 9](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=9&annotation=LVFJNMP4)) est-ce que cela correspond à ce qui est estimé sur le diagramme ternaire ? Il aurait été intéressant de mettre le point de mélange sur le diagramme ternaire
+
+« Wphénol » ([Rousselot, p. 9](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=9&annotation=WTWTE7BY)) à définir
+
+« 0,25 à 3,5 » ([Rousselot, p. 10](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=10&annotation=67A6LHLX)) il faut indiquer la masse totale sinon impossible à placer sur le diagramme ternaire. 20g comme avant ?
+
+« Cependant, lorsqu’on réduit la quantité de MIBK, pour un rapport Eau/MIBK supérieur à 1, l’efficacité et la capacité d’extraction diminuent et la quantité de phénol extraite est alors plus faible. » ([Rousselot, p. 10](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=10&annotation=Z8I75DNB)) A clarifier : lorsque le ratio augmente, la fraction de phénol en phase organique augmente donc meilleure extraction. Ca ne serait pas la fraction de phénol en phase aqueuse qui est tracée ?
+
+« Nos résultats expérimentaux coïncident avec les données de la littérature ce qui confirme la fiabilité des méthodes employées. » ([Rousselot, p. 13](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=13&annotation=23B95DYG)) Il n'est pas assez mis en avant qu'il n'existe pas de diagramme ternaire à 25°C.
+
+« Puis les expériences menées en variant les quantités de solvants utilisées (le rapport eau/MIBK), ont permis d’observer la limite imposée par l’équilibre thermodynamique, au-delà de laquelle l’ajout de solvant d’extraction (MIBK) n’améliore plus l’extraction. Enfin, l’étude d’une variation de la concentration initiale en phénol a montré que celle-ci impact peu le rendement d’extraction. » ([Rousselot, p. 13](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=13&annotation=P8NGEA93)) En quoi cela apporte plus d'information que la simple lecture du diagramme ternaire ?
+
+« base solide pour de prochaines études, en particulier l’étude des contacteurs membranaires. » ([Rousselot, p. 13](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=13&annotation=RF2IVS6N)) comment ces résultats vont-ils être utilisés pour l'étude des contacteurs membranairs ?
+
+« RÉFÉRENCES » ([Rousselot, p. 14](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=14&annotation=CDWQJJFH)) bibliographie très légère
+
+« Liste des figures Figure 1 : Comparaison des diagrammes eau-MIBK-phénol à 25°C en fraction massique Figure 2 : Comparaison des diagrammes eau-MIBK-phénol à 25°C en fraction molaire Figure 3 : Variation de Wphénol en phase organique en fonction du temps Figure 4 : Variation de Wphénol en phase organique en fonction du ratio des solvants Figure 5 : Variation du rendement d'extraction en fonction du ratio des solvants Figure 6 : Variation du rendement d'extraction en fonction de la masse initiale de phénol Listes des tableaux Tableau 3 : Liste des produits chimiques utilisés Tableau 2 : Résultats obtenus pour l'étude cinétique » ([Rousselot, p. 14](zotero://select/library/items/UKDY4M6F)) ([pdf](zotero://open-pdf/library/items/8EEJIN9D?page=14&annotation=BH5JC59U)) à mettre au début du rapport après le sommaire
+
+# Annotations  
+(01/04/2026 12:30:52)
+
+« L’ajout d’aluminate de sodium permet une diminution encore plus importante de cette teneur, mais nous n’avons pas pu le confirmer par nos analyses. » ([Vanelle, 2026, p. 4](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=4&annotation=GFAD6PXV)) ?
+
+« L’objectif de ce travail est tout d’abord pour confirmer que le traitement à la chaux (précipitation du gypse) et la précipitation de l’ettringite permets d’avoir une baisse de teneur en sulfate et voir si elle respecte les concentrations obtenues de la théorie. On s’est appuyer sur des essaies expérimentaux (10g/L d’acide sulfurique au départ pour chaque expériences) en variants les concentrations en chaux à 3 reprises et par une analyse chromatographie ionique afin de savoir comment la concentration en sulfate varie avec le temps au bout de ces 48h. » ([Vanelle, 2026, p. 5](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=5&annotation=4V8F943M)) Structure étrange du rapport (mélange intro, mat et methodes)
+
+« Figure 1 : Méthodes de traitement des sulfates » ([Vanelle, 2026, p. 7](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=7&annotation=SZ5KLB9V)) Echange d'ions en séparation physique ?
+
+« Le traitement à la chaux permet d’atteindre une élimination d’à peu près 84% de sulfates » ([Vanelle, 2026, p. 7](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=7&annotation=3RK4RQPS)) Comment est obtenue cette valeur ?
+
+« Ca(OH)2(s) ? Ca2+ (aq) + 2OH(aq) ....... (Eq. 1) » ([Vanelle, 2026, p. 7](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=7&annotation=6GWNCRY8)) équation dans le mauvais sens (flèche mal orientée)
+
+« Figure 1 : Solubilité des différentes formes de sulfate de calcium » ([Vanelle, 2026, p. 8](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=8&annotation=NXJ78GN3)) ref ?
+
+« [5] » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=EYLWL3JN)) Les ref sont à mettre à la fin des phrases
+
+« Ph » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=M7TAV7SK)) mal écrit
+
+« Il est disponible au marché » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=HU72RWAY)) ?
+
+« simplifiée » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=AU26T4IB)) pourquoi est-ce une réaction simplifiée
+
+« concentrations de moins de 150 mg·L-1 » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=76TS57RV)) ref ?
+
+« -Procédé compatible avec de forts débits industriels » ([Vanelle, 2026, p. 9](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=9&annotation=YU7DIW3K)) pourquoi ?
+
+« III.I Électrodialyse » ([Vanelle, 2026, p. 11](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=11&annotation=DYUZMMHG)) Pas une référence ?
+
+« Calculs de solubilité » ([Vanelle, 2026, p. 13](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=13&annotation=6JKHJWRA)) Comment les calculs ont été fait, à quelle température ?
+
+« Volume recherché (l) 1 Mole en sulfate, n(H2SO4) 0,104 Masse(H2SO4) en g 10,208 Masse volumique (H2SO4) 1,84g/mol Volume (H2SO4) en ml 5,6 Masse(H2SO4) à ajouter en g 11 » ([Vanelle, 2026, p. 14](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=14&annotation=2UHHSY6U)) à quoi sert ce tableau ? à quoi sert la densité ?
+
+« Une solution de 100g/l de suspension de chaux a été préparé, 100g de chaux a été dispersée dans 1l d’eau. » ([Vanelle, 2026, p. 14](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=14&annotation=8ESJKUHB)) quelvolume a été obtenu au final, quelle est la concentration obtenue par analyse ?
+
+« 3SO2-4 ?2Al (OH)4 » ([Vanelle, 2026, p. 14](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=14&annotation=HQJ47GZE)) ?
+
+« 11632-1288) / 11632 \*100 » ([Vanelle, 2026, p. 15](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=15&annotation=ENKXBPBP)) D'où viennent ces valeurs ?
+
+« Au bout de 3hr = (11632-1300) / 11632 ×100 =88,8% » ([Vanelle, 2026, p. 16](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=16&annotation=W8AK6V4Y)) pourquoi refaire le calcul ?
+
+« Comme mentionné précédemment, la chaux neutralise l’acide sulfurique et entraîne la précipitation des sulfates sous forme de CaSO4 (gypse), composé faiblement soluble dans l’eau. L’aluminate de sodium, quant à lui, conduit à la formation d’un précipité gélatineux d’hydroxyde d’aluminium Al(OH)3, qui agit comme coagulant/floculant et améliore la décantation du milieu. On observe ainsi une précipitation immédiate liée à la formation du CaSO4. L’Al(OH)3 formé peut également favoriser l’élimination des sulfates. Toutefois, le résultat obtenu ne correspond pas au meilleur abattement rapporté dans la littérature » ([Vanelle, 2026, p. 23](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=23&annotation=GBXING6B)) essais de DRX pour voir si ethringite présente ?
+
+« On observe sur le graphique une augmentation rapide initiale de la concentration en sulfates, suivie d’une stabilisation progressive, puis d’une légère augmentation vers 24h. Ce comportement n’est pas cohérent avec les données de la littérature. En effet, théoriquement, après l’ajout d’aluminate, on devrait observer une diminution de la concentration en sulfate dissous. Dans un tel système, la réaction thermodynamiquement favorisée est la formation d’ettringite, composée stable qui consomme des ions sulfate. L’augmentation observée expérimentalement suggère donc que la formation d’ettringite n’a pas été le mécanisme dominant. » ([Vanelle, 2026, p. 26](zotero://select/library/items/USNEPGDB)) ([pdf](zotero://open-pdf/library/items/JST8MMJS?page=26&annotation=GK798RSM)) Que vaut le pH à la fin des expériences ?
+
+# Annotations  
+(01/04/2026 12:31:46)
+
+« Résumé » ([Vouillon, 2025, p. 4](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=4&annotation=NYAQIGB4)) Très bien
+
+« Ce procédé permet de solubiliser les métaux dans des solutions d’acides organiques, comme l’acide citrique, qui forment des complexes métalliques avec les ions en solution. » ([Vouillon, 2025, p. 5](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=5&annotation=DDLDJQ4N)) ?
+
+« Toutefois, cette approche présente plusieurs défis, car la séparation du nickel dans ces conditions reste peu documentée, et des recherches supplémentaires sont nécessaires pour en évaluer la faisabilité et l’efficacité. Ainsi, cette étude pourrait ouvrir de nouvelles perspectives pour le recyclage des métaux stratégiques, en proposant une solution innovante et plus respectueuse de l’environnement. » ([Vouillon, 2025, p. 5](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=5&annotation=LLJDH4QR)) Identification des verrous ok
+
+« Différents instruments d’analyse ont été nécessaires pour mener cette étude. Pour un suivi en temps réel des manipulations, un pH-mètre de la marque METTLER TOLEDO a été utilisé. Un spectromètre UV-visible de la marque SHIMADZU a permis d’obtenir des données sur les échantillons, tandis qu’un spectromètre d’émission optique à plasma à couplage inductif (ICP-OES) de la marque Thermo Scientific a servi à des analyses plus approfondies. Enfin, un thermogravimètre METTLER TOLEDO a été employé pour réaliser des analyses thermogravimétriques sur un échantillon. » ([Vouillon, 2025, p. 7](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=7&annotation=JN4JSFYD)) Changement de police
+
+« ette » ([Vouillon, 2025, p. 7](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=7&annotation=2Z748TWR)) Typo
+
+« g-mL » ([Vouillon, 2025, p. 8](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=8&annotation=4VUVBM63)) Typo
+
+« (1) 3.13, (2) 4.76, (3) 6.4. » ([Vouillon, 2025, p. 8](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=8&annotation=IYI27W8J)) A quels sites correspondent ces pKa ?
+
+« Cette acide forme ainsi un complexe avec le citrate de nickel (II) de la forme suivante : Figure 5 : Formule développé du citrate de nickel (II). [8] » ([Vouillon, 2025, p. 8](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=8&annotation=6D73KVAE)) Forme chélatée intéressante
+
+« Pour le bon déroulement de cette étude, l’hypothèse d’un x égal à 2 a été formulée, et l’impact de la variation de ce x sur les résultats a été étudié. » ([Vouillon, 2025, p. 9](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=9&annotation=V4V22QKD)) Origine de cette hypothèse ?
+
+« Analyse à l’ICP-OES : Dans un premier temps une étude à l’aide de l’ICP-OES a été réalisée. Un échantillon d’une solution de citrate de nickel avec une concentration massique connue de 8.80\*102 mg/L a été analysé. Étant en phase organique et non aqueuse, il a fallu adapter les étalons et les mettre dans une matrice organique en ajoutant de l’acide citrique a une concentration similaire à celle de l’échantillon d’environ 0.01 mol/L. Les résultats relatifs à cette analyse sont disponibles en Annexe 5. Analyse par thermogravimétrie : La deuxième approche d’analyse a été l’analyse thermogravimétrique. Celle-ci présente la perte de masse d’un échantillon en fonction de la température qu’il atteint. Une étude similaire ayant déjà été réalisée sur un composé de citrate de nickel, le choix d’opter pour un protocole assez similaire a été fait [9]. Un échantillon de poudre de citrate de nickel x-hydraté pur à 98 % en masse, de 7.8840 mg a été placé sous un flux d’azote à un débit de 50 mL/min, dans un intervalle de 50 à 500°C avec une montée de température de 10 °C/min. L’évolution de la perte de masse de l’échantillon en fonction de la température a alors pu être obtenue. Les résultats relatifs à cette analyse sont disponibles en Annexe 5. Analyse par spectroscopie UV-visible : La dernière approche pour essayer de trouver une valeur expérimentale de x a été la spectroscopie UV-visible. Une courbe d’étalonnage a été effectuée grâce à une solution de nickel en présence d’acide nitrique de concentration en nickel connue de 1g/L. Une solution de citrate de nickel x-hydraté de masse connue a été réalisée et analysée par spectrométrie, afin de comparer ses résultats à la droite d’étalonnage et obtenir une valeur de x. Les résultats relatifs à cette analyse sont disponibles en Annexe 5. » ([Vouillon, 2025, p. 9](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=9&annotation=H8XH59D9)) Partie à mettre en annexe mais résultats à mettre dans le corps de texte (tableau)
+
+« Annexe 1 » ([Vouillon, 2025, p. 10](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=10&annotation=HWEPVJE5)) Préciser ce qui se trouve dans cette annexe dans le corps de texte
+
+« pH similaire à celui de la solution d’alimentation. » ([Vouillon, 2025, p. 10](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=10&annotation=LHIYMKLU)) Pas suffisant pour être sur de l'équilibre car toutes les espèces doivent vérifer cette condition. Cela reste un indicateur.
+
+« Figure 6 : Graphique représentant le suivi pH métrique des fractions durant la charge de la résine en fonction du volume injecté dans la colonne. » ([Vouillon, 2025, p. 11](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=11&annotation=3R8KDZ9T)) Figure non référencée (idem figure 8)
+
+« 4,99E-3 mol/L » ([Vouillon, 2025, p. 12](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=12&annotation=KKW3ZCTK)) Concentration de quoi ? Mettre dans ce cas le texte explicatif dans la légende.
+
+« pendant min » ([Vouillon, 2025, p. 13](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=13&annotation=T8J2ZUQB)) ?
+
+« Le volume du montage sera calculé à l’aide de cette formule : Ci * Vi - Cf * Vrésine = Cf * Vmontage Vmontage = Ci*Vi-Cf*Vrésine Cf (5) Avec Ci et Vi, la concentration et le volume de chaque fraction en mol/L et L, Cf la concentration de la dernière fraction de la charge en mol/L., Vrésine le volume de résine en L ainsi que Vmontage, le volume du montage en L. » ([Vouillon, 2025, p. 13](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=13&annotation=PH6LHXME)) A mettre dans une section dédiée
+
+« La régénération est l’étape de récupération du nickel capté par le lit de résine. Pour cela il faut faire passer une phase mobile dans la colonne capable de décrocher les ions nickel (II), soit parce que la solution diminue fortement la capacité de la résine dû à son pH, soit parce qu’elle est très concentrée en une espèce ayant une affinité avec la résine déplaçant son équilibre d’adsorption. » ([Vouillon, 2025, p. 13](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=13&annotation=6TQJRBVU)) Bien
+
+« 1\*10-1 mol/L » ([Vouillon, 2025, p. 13](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=13&annotation=KW8VQZHZ)) Ecriture un peu étrange
+
+« Cette régénération n‘ayant pas été suffisante » ([Vouillon, 2025, p. 14](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=14&annotation=N8T9EGCJ)) A justifier par les bilans de matière
+
+« C alimentation (mol/L) 1.500\*10-3 n njecté (mole) 7.18\*10-3 V injecté (L) 479\*10-3 n non captées (mole) 5.33\*10-3 C f (mol/L) 1.477\*10-3 n montage (mole) 8.31\*10-4 V montage (L) 5.63\*10-3 n captées (mole) 1.77\*10-3 » ([Vouillon, 2025, p. 17](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=17&annotation=A9YPUDKT)) Attention à la mise en forme
+
+« les variations de concentrations sont plus parlantes » ([Vouillon, 2025, p. 17](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=17&annotation=EL46TGEH)) attention au langage
+
+« Courbe d'élution de la régénération 1.1 » ([Vouillon, 2025, p. 18](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=18&annotation=Q47EQKVZ)) La courbe de percée est en C/C0 alors qu'ici c'est en C. Comment les comparer ?
+
+« La faible concentration observée sur les premiers points s’explique par le volume résiduel présent dans le montage au début de la manipulation contenant une solution d’acide citrique à un pH de 4.2. » ([Vouillon, 2025, p. 18](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=18&annotation=8K4J9JI3)) Y a -t-il eu un rinçage avant de faire la régénération ? Si non, comment expliquer le faible niveau de nickel ?
+
+« Ils montrent qu’il a eu une migration du nickel de la phase stationnaire vers la phase mobile durant l’arrêt de l’expérience. » ([Vouillon, 2025, p. 18](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=18&annotation=2CXWQ5R4)) Oui
+
+« Ces différents résultats résumés dans le tableau 2, montrent que malgré trois régénérations, une grosse partie d’environ 50% du nickel capté par la résine ne se décroche pas. » ([Vouillon, 2025, p. 19](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=19&annotation=8R8LYIEA)) Que faire pour récupérer les 50% restants ?
+
+« Régénération 1.1 Régénération 1.2 Régénération 1.3 Nombre de moles de nickel éluées 8.02\*10-4 8.67\*10-5 1.24\*10-5 Nombre de moles de nickel éluées cumulées 8.02\*10-4 8.88\*10-4 9.01\*10-4 Capacité (eq/L de résine) 0.68 0.75 0.76 Pourcentage de moles de nickel récupérées 47 % 50% 51% » ([Vouillon, 2025, p. 19](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=19&annotation=IQ5QV8T5)) Mettre toutes les conditions opératoires
+
+« [1] Enjeux Dans Le Recyclage Des Batteries Lithium-Ion. Editions T.I., 2022. Print. [2] Suwannahong, Kowit et al. “Selective Chelating Resin for Copper Removal and Recovery in Aqueous Acidic Solution Generated from Synthetic Copper-Citrate Complexes from Bioleaching of E-Waste.” Adsorption science & technology 2022 (2022): n. pag. Web. |3] Virolainen, Sami et al. “Removal of Iron, Aluminium, Manganese and Copper from Leach Solutions of Lithium-Ion Battery Waste Using Ion Exchange.” Hydrometallurgy 202 (2021): 105602-. Web. [4] Lenntech. "Lewatit MonoPlus TP 260 Chelating Resin." Lenntech, [5] Sraidi, Anasse et al. “Extraction of Rare Earth Elements Using a Chelating Amino Methyl Phosphonic Acid Resin.” Journal of molecular liquids 402 (2024): 124758-. Web. [6] Môme, Amélie. "Étude expérimentale du potentiel de récupération de métaux stratégiques issus de ressources secondaires par des résines de chélation." 2025. [7] Sigma-Aldrich. "Resin, Lewatit MonoPlus TP 260 Chelating Resin." Sigma-Aldrich, Web. [8] nickel citrate. Online. [Accessed 23 March 2025]. Available from: https://www.chemsrc.com/en/cas/22605-92-1_684345.html [9] Abu-Zied, Bahaa M, and Abdullah M Asiri. “An Investigation of the Thermal Decomposition of Nickel Citrate as a Precursor for Ni NiO Composite Nanoparticles.” Thermochimica acta 649 (2017): 54–62. Web. [10] Nicoud, Roger Marc. Chromatographic Processes : Modeling, Simulation, and Design. Cambridge: Cambridge University Press, 2015. Print. » ([Vouillon, 2025, p. 22](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=22&annotation=S8HEFHJP)) Espacements
+
+« Discussions: Malgré les trois types d’analyses effectuées, aucune valeur valide de x n’a pu être déterminée avec certitude. Pourtant, connaître cette valeur est essentiel pour l’interprétation et la fiabilité des résultats de cette étude. » ([Vouillon, 2025, p. 31](zotero://select/library/items/LLLMIXYA)) ([pdf](zotero://open-pdf/library/items/GB8RMG55?page=31&annotation=8EUUKIMU)) Mériterait d'être dans le corps de texte
